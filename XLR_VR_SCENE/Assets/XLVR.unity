@@ -317,6 +317,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb6d4d3c2e80244479e2d8f68407879e, type: 3}
+--- !u!1001 &789482069
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 3f3dfd52d9f1984419733f5c33d214da, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.59
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f3dfd52d9f1984419733f5c33d214da, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f3dfd52d9f1984419733f5c33d214da, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 20.13
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f3dfd52d9f1984419733f5c33d214da, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f3dfd52d9f1984419733f5c33d214da, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f3dfd52d9f1984419733f5c33d214da, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f3dfd52d9f1984419733f5c33d214da, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f3dfd52d9f1984419733f5c33d214da, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f3dfd52d9f1984419733f5c33d214da, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3f3dfd52d9f1984419733f5c33d214da, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3f3dfd52d9f1984419733f5c33d214da, type: 3}
+      propertyPath: m_Name
+      value: SantaWorksMuurtje
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3f3dfd52d9f1984419733f5c33d214da, type: 3}
 --- !u!1 &867896393
 GameObject:
   m_ObjectHideFlags: 0
@@ -562,10 +619,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -1431435067519718429, guid: 8333a5b7071cb1b4b9f92bf9c40449e6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -7312251791046969191, guid: 8333a5b7071cb1b4b9f92bf9c40449e6, type: 3}
     - target: {fileID: 919132149155446097, guid: 8333a5b7071cb1b4b9f92bf9c40449e6, type: 3}
       propertyPath: m_Name
       value: SantaWorkshopBase2
       objectReference: {fileID: 0}
+    - target: {fileID: 6272350532052637613, guid: 8333a5b7071cb1b4b9f92bf9c40449e6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -7312251791046969191, guid: 8333a5b7071cb1b4b9f92bf9c40449e6, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -784,3 +849,4 @@ SceneRoots:
   - {fileID: 266812908}
   - {fileID: 918781032}
   - {fileID: 1221017832}
+  - {fileID: 789482069}
